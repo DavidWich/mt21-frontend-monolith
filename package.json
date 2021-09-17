@@ -1,0 +1,22 @@
+{
+  "name": "complete-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.5.1",
+    "cookie": "^0.4.1",
+    "i18next": "^20.3.1",
+    "mongodb": "^3.6.8",
+    "next": "10.2.3",
+    "react": "17.0.2",
+    "react-cookie": "^4.1.1",
+    "react-dom": "17.0.2",
+    "react-i18next": "^11.10.0",
+    "react-redux": "^7.2.4"
+  }
+}

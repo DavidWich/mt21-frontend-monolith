@@ -1,0 +1,27 @@
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.heading button {
+  font: inherit;
+  cursor: pointer;
+  background-color: #0b8a59;
+  border: 1px solid #076642;
+  color: white;
+  padding: 0.5rem 1.5rem;
+  border-radius: 6px;
+}
+
+.mail {
+  max-width: 60rem;
+  width: 90%;
+  margin: 2rem auto;
+}
+
+.mail ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}

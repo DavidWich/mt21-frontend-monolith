@@ -1,0 +1,36 @@
+.single {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.single div {
+  width: 100%;
+}
+
+.single h3 {
+  margin: 0 1rem 0.25rem 0;
+}
+
+.description {
+  font-style: italic;
+}
+
+.side {
+  display: flex;
+  width: 100%;
+}
+
+.side button {
+  margin-left: auto;
+  height: 2rem;
+  width: 2rem;
+  border-style: none;
+  background-color: green;
+  color: white;
+  border-radius: 60%;
+  font-size: 25px;
+  cursor: pointer;
+}

@@ -1,0 +1,34 @@
+.course-detail {
+  margin: 5rem auto;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.2);
+  width: 50rem;
+  border-radius: 8px;
+  padding: 1rem;
+  background-color: #f4f0fa;
+}
+
+.inline {
+  display: flex;
+  justify-content: space-between;
+}
+
+.inline h1 {
+  display: inline-block;
+  text-align: left;
+  margin-right: auto;
+  width: 75%;
+}
+
+.inline button {
+  display: inline-block;
+  font: inherit;
+  cursor: pointer;
+  background-color: #0b8a59;
+  border: 1px solid #076642;
+  color: white;
+  padding: 0.75rem 0.75rem;
+  border-radius: 6px;
+  width: fit-content;
+  height: fit-content;
+  margin-top: 1.5rem;
+}

@@ -1,0 +1,28 @@
+.news {
+  max-width: 60rem;
+  width: 90%;
+  margin: 2rem auto;
+}
+
+.news ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.filter {
+  width: 10rem;
+  font: inherit;
+  padding: 0.5rem;
+  margin-left: 2rem;
+  font-weight: bold;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

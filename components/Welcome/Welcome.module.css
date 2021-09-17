@@ -1,0 +1,14 @@
+.welcome {
+  max-width: 60rem;
+  width: 90%;
+}
+
+.welcome button {
+  font: inherit;
+  cursor: pointer;
+  background-color: #0b8a59;
+  border: 1px solid #076642;
+  color: white;
+  padding: 0.5rem 1.5rem;
+  border-radius: 6px;
+}
