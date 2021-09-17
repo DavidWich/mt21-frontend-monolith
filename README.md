@@ -6,6 +6,8 @@ This project implements the monolith example with Next.js and React.
 
 To properly use this project, a [MongoDB](https://github.com/DavidWich/mt21-backend-db) and an [auth service](https://github.com/DavidWich/mt21-backend-auth) are required.
 
+NOTE: THIS PROJECT CLEARS AN EXISTING MONGODB DATABASE ON PORT 27017.
+
 The result can be accessed on http://localhost:3000/.
 
 The port 3000 needs to be free.
